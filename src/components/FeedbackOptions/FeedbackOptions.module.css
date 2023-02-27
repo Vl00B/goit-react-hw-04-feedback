@@ -1,0 +1,18 @@
+.feedback_list {
+  display: flex;
+}
+
+.option {
+  margin-right: 10px;
+}
+
+.btn {
+  border-radius: 5%;
+  border-width: 2px;
+  border-color: rgb(80, 192, 192);
+}
+
+.btn:hover {
+  background-color: aqua;
+  color: white;
+}
